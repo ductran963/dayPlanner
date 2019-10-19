@@ -20,5 +20,5 @@ Link to github page: https://ductran963.github.io/dayPlanner/
 
 Day Planner image:
 
-![image info](./assets/images/dayPlanner)
+![image info](./assets/images/dayPlanner.png)
 
