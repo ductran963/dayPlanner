@@ -1,0 +1,362 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 1;
+}
+
+.container {
+  position: relative;
+}
+
+textarea{
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #000000;
+  border-left: 1px solid black;
+  padding: 16px;
+}
+  
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+  color: black;
+  border-radius: 0;
+  border-bottom: 10px solid black;
+}
+  
+.description1{
+  position: absolute;
+  left: 117px;
+  top: 0%;
+  width: 70%;
+  white-space: pre-wrap;
+  background-color: #d3d3d3;
+  color: black;
+}
+
+.description2{
+  position: absolute;
+  left: 117px;
+  top: 9%;
+  width: 70%;
+  white-space: pre-wrap;
+  background-color: #d3d3d3;
+  color: black;
+}
+
+.description3{
+  position: absolute;
+  left: 117px;
+  top: 18%;
+  width: 70%;
+  white-space: pre-wrap;
+  background-color: #d3d3d3;
+  color: black;
+}
+.description4{
+  position: absolute;
+  left: 117px;
+  top: 27%;
+  width: 70%;
+  white-space: pre-wrap;
+  background-color: #ff6961;
+  color: black;
+}
+.description5{
+  position: absolute;
+  left: 117px;
+  top: 36%;
+  width: 70%;
+  white-space: pre-wrap;
+  background-color: #77dd77;
+  color: black;
+}
+.description6{
+  position: absolute;
+  left: 117px;
+  top: 45%;
+  width: 70%;
+  white-space: pre-wrap;
+  background-color: #77dd77;
+  color: black;
+}
+.description7{
+  position: absolute;
+  left: 117px;
+  top: 54%;
+  width: 70%;
+  white-space: pre-wrap;
+  background-color: #77dd77;
+  color: black;
+}
+.description8{
+  position: absolute;
+  left: 117px;
+  top: 63%;
+  width: 70%;
+  white-space: pre-wrap;
+  background-color: #77dd77;
+  color: black;
+}
+.description9{
+  position: absolute;
+  left: 117px;
+  top: 72%;
+  width: 70%;
+  white-space: pre-wrap;
+  background-color: #77dd77;
+  color: black;
+}
+
+  
+.time-block{
+  text-align: center;
+  border-radius: 15px;
+}
+  
+.row {
+  white-space: pre-wrap;
+  height: 80px;
+  border-top: 1px solid white;;
+}
+  
+.hour1 {
+  position: absolute;
+  left: 36px;
+  top: 0%;
+  background-color: #ffffff;
+  color: #000000;
+  border-top: 1px dashed #000000;
+  border-left: none;
+  text-align: right;
+}
+
+.hour2 {
+  position: absolute;
+  left: 36px;
+  top: 9%;
+  background-color: #ffffff;
+  color: #000000;
+  border-top: 1px dashed #000000;
+  border-left: none;
+  text-align: right;
+}
+.hour3 {
+  position: absolute;
+  left: 36px;
+  top: 18%;
+  background-color: #ffffff;
+  color: #000000;
+  border-top: 1px dashed #000000;
+  border-left: none;
+  text-align: right;
+}
+.hour4 {
+  position: absolute;
+  left: 36px;
+  top: 27%;
+  background-color: #ffffff;
+  color: #000000;
+  border-top: 1px dashed #000000;
+  border-left: none;
+  text-align: right;
+}
+.hour5 {
+  position: absolute;
+  left: 36px;
+  top: 36%;
+  background-color: #ffffff;
+  color: #000000;
+  border-top: 1px dashed #000000;
+  border-left: none;
+  text-align: right;
+}
+.hour6 {
+  position: absolute;
+  left: 36px;
+  top: 45%;
+  background-color: #ffffff;
+  color: #000000;
+  border-top: 1px dashed #000000;
+  border-left: none;
+  text-align: right;
+}
+.hour7 {
+  position: absolute;
+  left: 36px;
+  top: 54%;
+  background-color: #ffffff;
+  color: #000000;
+  border-top: 1px dashed #000000;
+  border-left: none;
+  text-align: right;
+}
+.hour8 {
+  position: absolute;
+  left: 36px;
+  top: 63%;
+  background-color: #ffffff;
+  color: #000000;
+  border-top: 1px dashed #000000;
+  border-left: none;
+  text-align: right;
+}
+.hour9 {
+  position: absolute;
+  left: 36px;
+  top: 72%;
+  background-color: #ffffff;
+  color: #000000;
+  border-top: 1px dashed #000000;
+  border-left: none;
+  text-align: right;
+}
+  
+.saveBtn1 {
+  position: absolute;
+  left: 915px;
+  top: 0%;
+  width: 6%;
+  border-left: 1px solid black;
+  border-top-right-radius: 11px;
+  border-bottom-right-radius: 11px;
+  background-color: #06AED5;
+  color: white;
+  right: 37%;
+  padding: 22px;
+}
+
+.saveBtn2 {
+  position: absolute;
+  left: 915px;
+  top: 9%;
+  width: 6%;
+  border-left: 1px solid black;
+  border-top-right-radius: 11px;
+  border-bottom-right-radius: 11px;
+  background-color: #06AED5;
+  color: white;
+  right: 37%;
+  padding: 22px;
+}
+.saveBtn3 {
+  position: absolute;
+  left: 915px;
+  top: 18%;
+  width: 6%;
+  border-left: 1px solid black;
+  border-top-right-radius: 11px;
+  border-bottom-right-radius: 11px;
+  background-color: #06AED5;
+  color: white;
+  right: 37%;
+  padding: 22px;
+}
+.saveBtn4 {
+  position: absolute;
+  left: 915px;
+  top: 27%;
+  width: 6%;
+  border-left: 1px solid black;
+  border-top-right-radius: 11px;
+  border-bottom-right-radius: 11px;
+  background-color: #06AED5;
+  color: white;
+  right: 37%;
+  padding: 22px;
+}
+.saveBtn5 {
+  position: absolute;
+  left: 915px;
+  top: 36%;
+  width: 6%;
+  border-left: 1px solid black;
+  border-top-right-radius: 11px;
+  border-bottom-right-radius: 11px;
+  background-color: #06AED5;
+  color: white;
+  right: 37%;
+  padding: 22px;
+}
+.saveBtn6 {
+  position: absolute;
+  left: 915px;
+  top: 45%;
+  width: 6%;
+  border-left: 1px solid black;
+  border-top-right-radius: 11px;
+  border-bottom-right-radius: 11px;
+  background-color: #06AED5;
+  color: white;
+  right: 37%;
+  padding: 22px;
+}
+.saveBtn7 {
+  position: absolute;
+  left: 915px;
+  top: 54%;
+  width: 6%;
+  border-left: 1px solid black;
+  border-top-right-radius: 11px;
+  border-bottom-right-radius: 11px;
+  background-color: #06AED5;
+  color: white;
+  right: 37%;
+  padding: 22px;
+}
+.saveBtn8 {
+  position: absolute;
+  left: 915px;
+  top: 63%;
+  width: 6%;
+  border-left: 1px solid black;
+  border-top-right-radius: 11px;
+  border-bottom-right-radius: 11px;
+  background-color: #06AED5;
+  color: white;
+  right: 37%;
+  padding: 22px;
+}
+.saveBtn9 {
+  position: absolute;
+  left: 915px;
+  top: 72%;
+  width: 6%;
+  border-left: 1px solid black;
+  border-top-right-radius: 11px;
+  border-bottom-right-radius: 11px;
+  background-color: #06AED5;
+  color: white;
+  right: 37%;
+  padding: 22px;
+} 
+.saveBtn1:hover {
+  color: black;
+}
+.saveBtn2:hover {
+  color: black;
+}
+.saveBtn3:hover {
+  color: black;
+}
+.saveBtn4:hover {
+  color: black;
+}
+.saveBtn5:hover {
+  color: black;
+}
+.saveBtn6:hover {
+  color: black;
+}
+.saveBtn7:hover {
+  color: black;
+}
+.saveBtn8:hover {
+  color: black;
+}
+.saveBtn9:hover {
+  color: black;
+}
+
+  
